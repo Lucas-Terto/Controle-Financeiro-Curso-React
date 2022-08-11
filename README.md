@@ -4,4 +4,5 @@
 ## Tecnologias utilizadas:
 ReactJS 
 
+### Principais recursos:
 localStorage com foco em operações de CRUD.
