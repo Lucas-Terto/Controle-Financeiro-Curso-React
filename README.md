@@ -2,4 +2,6 @@
 (Curso) - Desenvolvimento de uma aplicação voltada para controle financeiro.
 
 ## Tecnologias utilizadas:
-ReactJS e localStorage com foco em operações de CRUD.
+ReactJS 
+
+localStorage com foco em operações de CRUD.
