@@ -5,4 +5,4 @@
 ReactJS. 
 
 ### Principais recursos:
-localStorage com foco em operações de CRUD.
+localStorage, com foco em operações de CRUD.
