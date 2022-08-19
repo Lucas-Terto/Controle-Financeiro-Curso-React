@@ -1,4 +1,4 @@
-# Controle-Financeiro-Curso-React-
+# Controle-Financeiro-Curso-React
 (Curso) - Desenvolvimento de uma aplicação voltada para controle financeiro.
 
 ## Tecnologias utilizadas:
